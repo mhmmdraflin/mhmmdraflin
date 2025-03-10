@@ -4,9 +4,9 @@
 
 
 
-- 💬 About **I am an Informatics student at STIKI Malang (Sekolah Tinggi Informatika dan Komputer Indonesia), with proficiency in Android app development using Kotlin and Java. I am currently developing skills in PHP, HTML, and CSS for web development, with the goal of contributing effectively to the fields of software engineering and mobile application development.**
+- 💬 About **I am an Informatics student in Universitas Bhinneka Nusantara, with proficiency in Android app development using Kotlin and Java. I am currently developing skills in PHP, HTML, and CSS for web development, with the goal of contributing effectively to the fields of software engineering and mobile application development.**
 
-- 👨‍💻I’m currently **study Android Learning Path at Bangkit academy By Google, GoTo, Tokopedia, Traveloka**
+- 👨‍💻I’m currently **study In Bhi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
