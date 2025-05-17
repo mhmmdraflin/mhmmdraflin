@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rafli Nurfathan</h1>
-<h3 align="center">Android Developer | Web Developer | Undergraduate Informatics Student</h3>
+
+<h3 align="center">Mobile Development | Web Development | Undergraduate Informatics Student</h3>
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNiNWxqd3k1amRqNTc4MHIzZ3Nnejc1ZTlsZTRvdWc2bHFkNng2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="Coding" width="400"/>
@@ -52,6 +53,10 @@ I aim to contribute meaningfully in the field of **Software Engineering** and **
   <a href="https://isocpp.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
+ <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
+</a>
+<a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">
 </p>
 
 ---
