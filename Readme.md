@@ -53,20 +53,19 @@ I aim to contribute meaningfully in the field of **Software Engineering** and **
   <a href="https://isocpp.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
- <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
-</a>
-<a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mhmmdraflin&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmmdraflin&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmmdraflin&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdraflin&layout=compact&theme=radical" alt="Top Languages" />
 </p>
